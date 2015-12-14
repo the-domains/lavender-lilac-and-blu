@@ -1,0 +1,28 @@
+name: 'Lavender, Lilac & Blu'
+favicon: null
+layout_spectrum: 0.7117479383014143
+typography_spectrum: 0.8284043788444251
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5453984867781401
+  lightness: 0.23193929460830986
+  saturation: 0.2746303465683013
+  rhythmicContrast: 0.33636984997428954
+purpose: []
