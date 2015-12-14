@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lavender, Lilac & Blu]]></title>
         <description><![CDATA[Lavender, Lilac & Blu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lavender-lilac-and-blu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 17:53:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 17:53:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lavender-lilac-and-blu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/lavender-lilac-and-blu/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">d5c4087a-f7d4-48c7-bb83-d2564377edfd</guid>
-            <pubDate>Mon, 14 Dec 2015 17:52:50 GMT</pubDate>
+            <pubDate>Mon, 14 Dec 2015 17:53:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
